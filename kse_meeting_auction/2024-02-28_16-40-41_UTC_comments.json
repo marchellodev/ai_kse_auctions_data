@@ -129,17 +129,6 @@
         "likes_count": 0,
         "answers": [
             {
-                "id": 18413038474015963,
-                "created_at": 1709152875,
-                "text": "@iarovyi \u043f\u0435\u0440\u0435\u0431\u0438\u0442\u043e",
-                "owner": {
-                    "id": "64655533308",
-                    "profile_pic_url": "https://scontent-iev1-1.cdninstagram.com/v/t51.2885-19/427666117_424880886632391_8456744437262568953_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-iev1-1.cdninstagram.com&_nc_cat=103&_nc_ohc=_K0p807vVTIAX9dldFK&edm=AF1ddXUBAAAA&ccb=7-5&oh=00_AfC8kGrJgogKxH6eEH4zBtXjTch70VtX-KFsGU_EOVoyCg&oe=660E014F&_nc_sid=cf751b",
-                    "username": "kse_meeting_auction"
-                },
-                "likes_count": 0
-            },
-            {
                 "id": 18004444079170507,
                 "created_at": 1709288485,
                 "text": "@iarovyi \u0454 \u043f\u0440\u043e\u043f\u043e\u0437\u0438\u0446\u0456\u044f \u0441\u043a\u0438\u043d\u0443\u0442\u0438\u0441\u044c \u0456 \u043f\u043e\u0440\u043e\u0437\u043f\u0438\u0442\u0443\u0432\u0430\u0442\u0438 \u0440\u0430\u0437\u043e\u043c :)",
@@ -147,6 +136,17 @@
                     "id": "1597015147",
                     "profile_pic_url": "https://scontent-iev1-1.cdninstagram.com/v/t51.2885-19/431095528_362404053284881_3197340847442330461_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-iev1-1.cdninstagram.com&_nc_cat=101&_nc_ohc=to7uDmsZn_IAX-YxW7C&edm=AF1ddXUBAAAA&ccb=7-5&oh=00_AfBsBVc62ZiWzlOaOAc5pa6jBpx2tuauxThTyRxUNt8I0g&oe=660DEEDF&_nc_sid=cf751b",
                     "username": "taraspavlov"
+                },
+                "likes_count": 0
+            },
+            {
+                "id": 18413038474015963,
+                "created_at": 1709152875,
+                "text": "@iarovyi \u043f\u0435\u0440\u0435\u0431\u0438\u0442\u043e",
+                "owner": {
+                    "id": "64655533308",
+                    "profile_pic_url": "https://scontent-iev1-1.cdninstagram.com/v/t51.2885-19/427666117_424880886632391_8456744437262568953_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-iev1-1.cdninstagram.com&_nc_cat=103&_nc_ohc=_K0p807vVTIAX9dldFK&edm=AF1ddXUBAAAA&ccb=7-5&oh=00_AfC8kGrJgogKxH6eEH4zBtXjTch70VtX-KFsGU_EOVoyCg&oe=660E014F&_nc_sid=cf751b",
+                    "username": "kse_meeting_auction"
                 },
                 "likes_count": 0
             },
