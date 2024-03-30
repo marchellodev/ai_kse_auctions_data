@@ -1,0 +1,41 @@
+[
+    {
+        "id": "17892310970988670",
+        "created_at": 1710167119,
+        "text": "7777",
+        "owner": {
+            "id": "51992171200",
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-iev1-1.cdninstagram.com/v/t51.2885-19/432116891_404900258793109_3746136115049771065_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-iev1-1.cdninstagram.com&_nc_cat=101&_nc_ohc=YSYYf27dgyMAX_tFT0m&edm=AMrZAGUBAAAA&ccb=7-5&oh=00_AfDlWynqwOE_vEIa-VQgUtdYXWLLE3Kx9J5TRIurB-d7Mw&oe=660DFD90&_nc_sid=17eaee",
+            "username": "vo.simkiv"
+        },
+        "likes_count": 0,
+        "answers": []
+    },
+    {
+        "id": "18020295629313944",
+        "created_at": 1710146374,
+        "text": "7000",
+        "owner": {
+            "id": "4532154421",
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-iev1-1.cdninstagram.com/v/t51.2885-19/428028216_1048427369577046_4051809627458820845_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-iev1-1.cdninstagram.com&_nc_cat=110&_nc_ohc=ZpZrVpT8MAQAX99mMt1&edm=AMrZAGUBAAAA&ccb=7-5&oh=00_AfAZNy6YcaQ0F2vOzqeB_Vs077_PcwXawan94SfIvtyhdw&oe=660DF69B&_nc_sid=17eaee",
+            "username": "sobakagardemarinutka"
+        },
+        "likes_count": 2,
+        "answers": [
+            {
+                "id": 17896431614900701,
+                "created_at": 1710167162,
+                "text": "@sobakagardemarinutka \u043f\u0435\u0440\u0435\u0431\u0438\u0442\u043e",
+                "owner": {
+                    "id": "2868781400",
+                    "is_verified": false,
+                    "profile_pic_url": "https://scontent-iev1-1.cdninstagram.com/v/t51.2885-19/395010769_1380226059324348_8038815133101032342_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-iev1-1.cdninstagram.com&_nc_cat=100&_nc_ohc=yVq3pXStTfwAX86WS5C&edm=AMrZAGUBAAAA&ccb=7-5&oh=00_AfBNc-I-LknUXkZbwzlZgao5WBRg1vracrOB6I8mugORcw&oe=660DE0CC&_nc_sid=17eaee",
+                    "username": "kpetrynka"
+                },
+                "likes_count": 0
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "id": "17981370959644294",
+        "created_at": 1710004012,
+        "text": "200",
+        "owner": {
+            "id": "1782235152",
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-iev1-1.cdninstagram.com/v/t51.2885-19/119006923_318466349435912_5246482602520594333_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-iev1-1.cdninstagram.com&_nc_cat=108&_nc_ohc=QW3XqfN7nEAAX9y3eHu&edm=AMrZAGUBAAAA&ccb=7-5&oh=00_AfBWnFO5IwW7SBLeL5CbJShAzUtp6abkWk2dYtSiHoA8nQ&oe=660DEB60&_nc_sid=17eaee",
+            "username": "vadymko_naumchuk"
+        },
+        "likes_count": 2,
+        "answers": [
+            {
+                "id": 18024355894952946,
+                "created_at": 1710004055,
+                "text": "@vadymko_naumchuk \u043f\u0435\u0440\u0448\u0438\u0439 \u043f\u0456\u0448\u043e\u0432\ud83e\udd1d",
+                "owner": {
+                    "id": "3249179772",
+                    "is_verified": false,
+                    "profile_pic_url": "https://scontent-iev1-1.cdninstagram.com/v/t51.2885-19/341917190_919301449271744_4026100485612335739_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-iev1-1.cdninstagram.com&_nc_cat=108&_nc_ohc=aOcmF2a6f9YAX_QEEXv&edm=AMrZAGUBAAAA&ccb=7-5&oh=00_AfDcCO9ZMcpkXtxYAGDBMegKR0uYYD_NYTLVqfIEECca0A&oe=660DF755&_nc_sid=17eaee",
+                    "username": "hinaliuk"
+                },
+                "likes_count": 0
+            }
+        ]
+    }
+]
