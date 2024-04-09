@@ -67,7 +67,7 @@ async function main() {
   }
 
   posts = posts.sort((a, b) => a.n - b.n);
-  comments = comments.sort((a, b) => a.lot_n - b.lot_n);
+  comments = comments.sort((a, b) => a.post_n - b.post_n);
 
   await Bun.write(
     "result_posts.csv",
