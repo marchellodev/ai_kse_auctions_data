@@ -51,18 +51,6 @@
     "likes_count": 0,
     "answers": [
       {
-        "id": 18428569510024074,
-        "created_at": 1710074562,
-        "text": "@__bunjee__ \u043f\u0435\u0440\u0435\u0431\u0438\u0442\u043e",
-        "owner": {
-          "id": "64655533308",
-          "is_verified": false,
-          "profile_pic_url": "https://instagram.fiev6-1.fna.fbcdn.net/v/t51.2885-19/427666117_424880886632391_8456744437262568953_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fiev6-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=_K0p807vVTIAX-Tt7f8&edm=AMrZAGUBAAAA&ccb=7-5&oh=00_AfD0tR1HI7A1_N_tFlhG91ZTP6wnR7U6gqBcGaXp2Qveuw&oe=660E014F&_nc_sid=17eaee",
-          "username": "kse_meeting_auction"
-        },
-        "likes_count": 0
-      },
-      {
         "id": 17958700406730397,
         "created_at": 1710076936,
         "text": "@__bunjee__ 4500",
@@ -85,6 +73,18 @@
           "username": "__bunjee__"
         },
         "likes_count": 0
+      },
+      {
+        "id": 18428569510024074,
+        "created_at": 1710074562,
+        "text": "@__bunjee__ \u043f\u0435\u0440\u0435\u0431\u0438\u0442\u043e",
+        "owner": {
+          "id": "64655533308",
+          "is_verified": false,
+          "profile_pic_url": "https://instagram.fiev6-1.fna.fbcdn.net/v/t51.2885-19/427666117_424880886632391_8456744437262568953_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fiev6-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=_K0p807vVTIAX-Tt7f8&edm=AMrZAGUBAAAA&ccb=7-5&oh=00_AfD0tR1HI7A1_N_tFlhG91ZTP6wnR7U6gqBcGaXp2Qveuw&oe=660E014F&_nc_sid=17eaee",
+          "username": "kse_meeting_auction"
+        },
+        "likes_count": 0
       }
     ]
   },
@@ -101,18 +101,6 @@
     "likes_count": 0,
     "answers": [
       {
-        "id": 18051829606590927,
-        "created_at": 1710074322,
-        "text": "@alexriabtsev \u043f\u0435\u0440\u0435\u0431\u0438\u0442\u043e",
-        "owner": {
-          "id": "64655533308",
-          "is_verified": false,
-          "profile_pic_url": "https://instagram.fiev6-1.fna.fbcdn.net/v/t51.2885-19/427666117_424880886632391_8456744437262568953_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fiev6-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=_K0p807vVTIAX-Tt7f8&edm=AMrZAGUBAAAA&ccb=7-5&oh=00_AfD0tR1HI7A1_N_tFlhG91ZTP6wnR7U6gqBcGaXp2Qveuw&oe=660E014F&_nc_sid=17eaee",
-          "username": "kse_meeting_auction"
-        },
-        "likes_count": 0
-      },
-      {
         "id": 18046855900717967,
         "created_at": 1710074463,
         "text": "@kse_meeting_auction 4500",
@@ -121,6 +109,18 @@
           "is_verified": false,
           "profile_pic_url": "https://instagram.fiev6-1.fna.fbcdn.net/v/t51.2885-19/13285334_1051190258298807_51438502_a.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fiev6-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=-VDXqd0H4sAAX-_KhfF&edm=AMrZAGUBAAAA&ccb=7-5&oh=00_AfAgDCm0eY_m4ujabUFpokPf30aJhApAztcnN2ImQgZk7w&oe=660DE216&_nc_sid=17eaee",
           "username": "alexriabtsev"
+        },
+        "likes_count": 0
+      },
+      {
+        "id": 18051829606590927,
+        "created_at": 1710074322,
+        "text": "@alexriabtsev \u043f\u0435\u0440\u0435\u0431\u0438\u0442\u043e",
+        "owner": {
+          "id": "64655533308",
+          "is_verified": false,
+          "profile_pic_url": "https://instagram.fiev6-1.fna.fbcdn.net/v/t51.2885-19/427666117_424880886632391_8456744437262568953_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fiev6-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=_K0p807vVTIAX-Tt7f8&edm=AMrZAGUBAAAA&ccb=7-5&oh=00_AfD0tR1HI7A1_N_tFlhG91ZTP6wnR7U6gqBcGaXp2Qveuw&oe=660E014F&_nc_sid=17eaee",
+          "username": "kse_meeting_auction"
         },
         "likes_count": 0
       }
@@ -165,18 +165,6 @@
     "likes_count": 3,
     "answers": [
       {
-        "id": 18218080834287145,
-        "created_at": 1710068737,
-        "text": "@alexriabtsev \u043f\u0435\u0440\u0435\u0431\u0438\u0442\u0438",
-        "owner": {
-          "id": "64655533308",
-          "is_verified": false,
-          "profile_pic_url": "https://instagram.fiev6-1.fna.fbcdn.net/v/t51.2885-19/427666117_424880886632391_8456744437262568953_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fiev6-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=_K0p807vVTIAX-Tt7f8&edm=AMrZAGUBAAAA&ccb=7-5&oh=00_AfD0tR1HI7A1_N_tFlhG91ZTP6wnR7U6gqBcGaXp2Qveuw&oe=660E014F&_nc_sid=17eaee",
-          "username": "kse_meeting_auction"
-        },
-        "likes_count": 0
-      },
-      {
         "id": 18071581309488272,
         "created_at": 1710073537,
         "text": "@kse_meeting_auction 3500",
@@ -185,6 +173,18 @@
           "is_verified": false,
           "profile_pic_url": "https://instagram.fiev6-1.fna.fbcdn.net/v/t51.2885-19/13285334_1051190258298807_51438502_a.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fiev6-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=-VDXqd0H4sAAX-_KhfF&edm=AMrZAGUBAAAA&ccb=7-5&oh=00_AfAgDCm0eY_m4ujabUFpokPf30aJhApAztcnN2ImQgZk7w&oe=660DE216&_nc_sid=17eaee",
           "username": "alexriabtsev"
+        },
+        "likes_count": 0
+      },
+      {
+        "id": 18218080834287145,
+        "created_at": 1710068737,
+        "text": "@alexriabtsev \u043f\u0435\u0440\u0435\u0431\u0438\u0442\u0438",
+        "owner": {
+          "id": "64655533308",
+          "is_verified": false,
+          "profile_pic_url": "https://instagram.fiev6-1.fna.fbcdn.net/v/t51.2885-19/427666117_424880886632391_8456744437262568953_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fiev6-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=_K0p807vVTIAX-Tt7f8&edm=AMrZAGUBAAAA&ccb=7-5&oh=00_AfD0tR1HI7A1_N_tFlhG91ZTP6wnR7U6gqBcGaXp2Qveuw&oe=660E014F&_nc_sid=17eaee",
+          "username": "kse_meeting_auction"
         },
         "likes_count": 0
       }

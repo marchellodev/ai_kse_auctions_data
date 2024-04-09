@@ -38,18 +38,6 @@
     "likes_count": 1,
     "answers": [
       {
-        "id": 18030844732742087,
-        "created_at": 1710104753,
-        "text": "@artem.ginkul \u043e\u0441\u0442\u0430\u043d\u043d\u044f \u0441\u0442\u0430\u0432\u043a\u0430 1111, \u043c\u0456\u043d\u0456\u043c\u0430\u043b\u044c\u043d\u0438\u0439 \u043a\u0440\u043e\u043a 50, \u0442\u043e\u0436 1161?",
-        "owner": {
-          "id": "64655533308",
-          "is_verified": false,
-          "profile_pic_url": "https://instagram.fiev6-1.fna.fbcdn.net/v/t51.2885-19/427666117_424880886632391_8456744437262568953_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fiev6-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=_K0p807vVTIAX-Tt7f8&edm=AMrZAGUBAAAA&ccb=7-5&oh=00_AfD0tR1HI7A1_N_tFlhG91ZTP6wnR7U6gqBcGaXp2Qveuw&oe=660E014F&_nc_sid=17eaee",
-          "username": "kse_meeting_auction"
-        },
-        "likes_count": 0
-      },
-      {
         "id": 18021733148085595,
         "created_at": 1710150167,
         "text": "@artem.ginkul \u043f\u0435\u0440\u0435\u0431\u0438\u0442\u043e",
@@ -72,6 +60,18 @@
           "username": "artem.ginkul"
         },
         "likes_count": 1
+      },
+      {
+        "id": 18030844732742087,
+        "created_at": 1710104753,
+        "text": "@artem.ginkul \u043e\u0441\u0442\u0430\u043d\u043d\u044f \u0441\u0442\u0430\u0432\u043a\u0430 1111, \u043c\u0456\u043d\u0456\u043c\u0430\u043b\u044c\u043d\u0438\u0439 \u043a\u0440\u043e\u043a 50, \u0442\u043e\u0436 1161?",
+        "owner": {
+          "id": "64655533308",
+          "is_verified": false,
+          "profile_pic_url": "https://instagram.fiev6-1.fna.fbcdn.net/v/t51.2885-19/427666117_424880886632391_8456744437262568953_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fiev6-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=_K0p807vVTIAX-Tt7f8&edm=AMrZAGUBAAAA&ccb=7-5&oh=00_AfD0tR1HI7A1_N_tFlhG91ZTP6wnR7U6gqBcGaXp2Qveuw&oe=660E014F&_nc_sid=17eaee",
+          "username": "kse_meeting_auction"
+        },
+        "likes_count": 0
       }
     ]
   },
@@ -178,18 +178,6 @@
     "likes_count": 2,
     "answers": [
       {
-        "id": 18119423251349659,
-        "created_at": 1709131164,
-        "text": "@varia_chornomorets omg \u043f\u0430\u043d\u0456 \ud83e\udd75\u2728",
-        "owner": {
-          "id": "18005035148",
-          "is_verified": false,
-          "profile_pic_url": "https://instagram.fiev6-1.fna.fbcdn.net/v/t51.2885-19/346256058_785768272983709_5807633956015421998_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fiev6-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=3862gUM3QykAX9Svt0U&edm=AMrZAGUBAAAA&ccb=7-5&oh=00_AfCmljYOHoR0IYaSS9rD_5RGmOBGA-PcS7nYenPrUshSfQ&oe=660DE10F&_nc_sid=17eaee",
-          "username": "anfeuve"
-        },
-        "likes_count": 0
-      },
-      {
         "id": 18027841270911472,
         "created_at": 1709199223,
         "text": "@varia_chornomorets \u043f\u0435\u0440\u0435\u0431\u0438\u0442\u043e\ud83d\udd28",
@@ -198,6 +186,18 @@
           "is_verified": false,
           "profile_pic_url": "https://instagram.fiev6-1.fna.fbcdn.net/v/t51.2885-19/427666117_424880886632391_8456744437262568953_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fiev6-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=_K0p807vVTIAX-Tt7f8&edm=AMrZAGUBAAAA&ccb=7-5&oh=00_AfD0tR1HI7A1_N_tFlhG91ZTP6wnR7U6gqBcGaXp2Qveuw&oe=660E014F&_nc_sid=17eaee",
           "username": "kse_meeting_auction"
+        },
+        "likes_count": 0
+      },
+      {
+        "id": 18119423251349659,
+        "created_at": 1709131164,
+        "text": "@varia_chornomorets omg \u043f\u0430\u043d\u0456 \ud83e\udd75\u2728",
+        "owner": {
+          "id": "18005035148",
+          "is_verified": false,
+          "profile_pic_url": "https://instagram.fiev6-1.fna.fbcdn.net/v/t51.2885-19/346256058_785768272983709_5807633956015421998_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fiev6-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=3862gUM3QykAX9Svt0U&edm=AMrZAGUBAAAA&ccb=7-5&oh=00_AfCmljYOHoR0IYaSS9rD_5RGmOBGA-PcS7nYenPrUshSfQ&oe=660DE10F&_nc_sid=17eaee",
+          "username": "anfeuve"
         },
         "likes_count": 0
       }
@@ -216,18 +216,6 @@
     "likes_count": 2,
     "answers": [
       {
-        "id": 18073251397466053,
-        "created_at": 1709130919,
-        "text": "@_.yara.ig._ \u043f\u0435\u0440\u0435\u0431\u0438\u0442\u043e",
-        "owner": {
-          "id": "64655533308",
-          "is_verified": false,
-          "profile_pic_url": "https://instagram.fiev6-1.fna.fbcdn.net/v/t51.2885-19/427666117_424880886632391_8456744437262568953_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fiev6-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=_K0p807vVTIAX-Tt7f8&edm=AMrZAGUBAAAA&ccb=7-5&oh=00_AfD0tR1HI7A1_N_tFlhG91ZTP6wnR7U6gqBcGaXp2Qveuw&oe=660E014F&_nc_sid=17eaee",
-          "username": "kse_meeting_auction"
-        },
-        "likes_count": 0
-      },
-      {
         "id": 17967699530700183,
         "created_at": 1709130990,
         "text": "@kse_meeting_auction \ud83d\ude2d",
@@ -236,6 +224,18 @@
           "is_verified": false,
           "profile_pic_url": "https://instagram.fiev6-1.fna.fbcdn.net/v/t51.2885-19/363350299_834397548049765_5501157247436411644_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fiev6-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=LYPMmQurfiUAX-vKytY&edm=AMrZAGUBAAAA&ccb=7-5&oh=00_AfAba_zNQtL7Xq99xEJ6hD0jg7xtmp5Vakwe8zpk5Yff0Q&oe=660E0A3B&_nc_sid=17eaee",
           "username": "_.yara.ig._"
+        },
+        "likes_count": 0
+      },
+      {
+        "id": 18073251397466053,
+        "created_at": 1709130919,
+        "text": "@_.yara.ig._ \u043f\u0435\u0440\u0435\u0431\u0438\u0442\u043e",
+        "owner": {
+          "id": "64655533308",
+          "is_verified": false,
+          "profile_pic_url": "https://instagram.fiev6-1.fna.fbcdn.net/v/t51.2885-19/427666117_424880886632391_8456744437262568953_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fiev6-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=_K0p807vVTIAX-Tt7f8&edm=AMrZAGUBAAAA&ccb=7-5&oh=00_AfD0tR1HI7A1_N_tFlhG91ZTP6wnR7U6gqBcGaXp2Qveuw&oe=660E014F&_nc_sid=17eaee",
+          "username": "kse_meeting_auction"
         },
         "likes_count": 0
       }

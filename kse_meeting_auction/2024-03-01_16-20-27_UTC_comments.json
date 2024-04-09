@@ -64,18 +64,6 @@
     "likes_count": 4,
     "answers": [
       {
-        "id": 18095038105392172,
-        "created_at": 1710013271,
-        "text": "@dmtr.kolisnyk \u043f\u0435\u0440\u0435\u0431\u0438\u0442\u043e",
-        "owner": {
-          "id": "64655533308",
-          "is_verified": false,
-          "profile_pic_url": "https://instagram.fiev6-1.fna.fbcdn.net/v/t51.2885-19/427666117_424880886632391_8456744437262568953_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fiev6-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=_K0p807vVTIAX-Tt7f8&edm=AMrZAGUBAAAA&ccb=7-5&oh=00_AfD0tR1HI7A1_N_tFlhG91ZTP6wnR7U6gqBcGaXp2Qveuw&oe=660E014F&_nc_sid=17eaee",
-          "username": "kse_meeting_auction"
-        },
-        "likes_count": 0
-      },
-      {
         "id": 18024415561990922,
         "created_at": 1710013945,
         "text": "@kse_meeting_auction \u043d\u0456\u0456\u0456\u0456\u0456(((((",
@@ -84,6 +72,18 @@
           "is_verified": false,
           "profile_pic_url": "https://instagram.fiev6-1.fna.fbcdn.net/v/t51.2885-19/291127953_1116014325795229_4938875121092013770_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fiev6-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=Fl7X3elbyT0AX9Z0cZ0&edm=AMrZAGUBAAAA&ccb=7-5&oh=00_AfBsYkCSdw2VoBtdZTW_-CKmaTNm6XW-pyKAWNJ1l5JDXw&oe=660DDFFD&_nc_sid=17eaee",
           "username": "dmtr.kolisnyk"
+        },
+        "likes_count": 0
+      },
+      {
+        "id": 18095038105392172,
+        "created_at": 1710013271,
+        "text": "@dmtr.kolisnyk \u043f\u0435\u0440\u0435\u0431\u0438\u0442\u043e",
+        "owner": {
+          "id": "64655533308",
+          "is_verified": false,
+          "profile_pic_url": "https://instagram.fiev6-1.fna.fbcdn.net/v/t51.2885-19/427666117_424880886632391_8456744437262568953_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fiev6-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=_K0p807vVTIAX-Tt7f8&edm=AMrZAGUBAAAA&ccb=7-5&oh=00_AfD0tR1HI7A1_N_tFlhG91ZTP6wnR7U6gqBcGaXp2Qveuw&oe=660E014F&_nc_sid=17eaee",
+          "username": "kse_meeting_auction"
         },
         "likes_count": 0
       }

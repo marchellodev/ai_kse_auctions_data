@@ -25,18 +25,6 @@
     "likes_count": 0,
     "answers": [
       {
-        "id": 17996358158529207,
-        "created_at": 1710106306,
-        "text": "@yurii_chopiuk \u043f\u0435\u0440\u0435\u0431\u0438\u0442\u043e",
-        "owner": {
-          "id": "64655533308",
-          "is_verified": false,
-          "profile_pic_url": "https://instagram.fiev6-1.fna.fbcdn.net/v/t51.2885-19/427666117_424880886632391_8456744437262568953_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fiev6-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=_K0p807vVTIAX-Tt7f8&edm=AMrZAGUBAAAA&ccb=7-5&oh=00_AfD0tR1HI7A1_N_tFlhG91ZTP6wnR7U6gqBcGaXp2Qveuw&oe=660E014F&_nc_sid=17eaee",
-          "username": "kse_meeting_auction"
-        },
-        "likes_count": 0
-      },
-      {
         "id": 17969408531567934,
         "created_at": 1710107390,
         "text": "@kse_meeting_auction \ud83e\udd72",
@@ -45,6 +33,18 @@
           "is_verified": false,
           "profile_pic_url": "https://instagram.fiev6-1.fna.fbcdn.net/v/t51.2885-19/242437386_593108691713287_131015779778838027_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fiev6-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=-Psbmifxgu0AX8K28lH&edm=AMrZAGUBAAAA&ccb=7-5&oh=00_AfBTicRYg9NVIvWiOhZsdbmE03xPA9lF5MlReR8DWfQGSg&oe=660DFA0C&_nc_sid=17eaee",
           "username": "yurii_chopiuk"
+        },
+        "likes_count": 0
+      },
+      {
+        "id": 17996358158529207,
+        "created_at": 1710106306,
+        "text": "@yurii_chopiuk \u043f\u0435\u0440\u0435\u0431\u0438\u0442\u043e",
+        "owner": {
+          "id": "64655533308",
+          "is_verified": false,
+          "profile_pic_url": "https://instagram.fiev6-1.fna.fbcdn.net/v/t51.2885-19/427666117_424880886632391_8456744437262568953_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fiev6-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=_K0p807vVTIAX-Tt7f8&edm=AMrZAGUBAAAA&ccb=7-5&oh=00_AfD0tR1HI7A1_N_tFlhG91ZTP6wnR7U6gqBcGaXp2Qveuw&oe=660E014F&_nc_sid=17eaee",
+          "username": "kse_meeting_auction"
         },
         "likes_count": 0
       }
@@ -141,9 +141,31 @@
     "likes_count": 4,
     "answers": [
       {
+        "id": 18021342470020827,
+        "created_at": 1709137460,
+        "text": "\u0426\u0435 \u0431\u0443\u043b\u0430 \u043d\u0430\u0439\u043a\u0440\u0430\u0449\u0430 \u0441\u0442\u0430\u0432\u043a\u0430\ud83d\ude22",
+        "owner": {
+          "id": "40877102359",
+          "profile_pic_url": "https://instagram.fiev6-1.fna.fbcdn.net/v/t51.2885-19/418381292_689512783293240_2286163972003136916_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fiev6-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=QQL7McyR41sAX8e9tcJ&edm=AF1ddXUBAAAA&ccb=7-5&oh=00_AfDqY536J2J5IzmLKaJbPLAHG7RKvnQqsRqcw4PhJuHmog&oe=660E0A40&_nc_sid=cf751b",
+          "username": "sergio_kozerenko"
+        },
+        "likes_count": 4
+      },
+      {
         "id": 18415140412027934,
         "created_at": 1709041787,
         "text": "@dxm.dog \u043f\u0435\u0440\u0435\u0431\u0438\u0442\u043e",
+        "owner": {
+          "id": "64655533308",
+          "profile_pic_url": "https://instagram.fiev6-1.fna.fbcdn.net/v/t51.2885-19/427666117_424880886632391_8456744437262568953_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fiev6-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=_K0p807vVTIAX-Tt7f8&edm=AF1ddXUBAAAA&ccb=7-5&oh=00_AfBXif-OjL4OtYzz2HDW62Com_iRTBdclyAxtLpg6HHDSA&oe=660E014F&_nc_sid=cf751b",
+          "username": "kse_meeting_auction"
+        },
+        "likes_count": 0
+      },
+      {
+        "id": 18031683898896074,
+        "created_at": 1709041781,
+        "text": "@dxm.dog \u043f\u0435\u0440\u0435\u0431\u0438\u0442\u043e\ud83d\udd28",
         "owner": {
           "id": "64655533308",
           "profile_pic_url": "https://instagram.fiev6-1.fna.fbcdn.net/v/t51.2885-19/427666117_424880886632391_8456744437262568953_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fiev6-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=_K0p807vVTIAX-Tt7f8&edm=AF1ddXUBAAAA&ccb=7-5&oh=00_AfBXif-OjL4OtYzz2HDW62Com_iRTBdclyAxtLpg6HHDSA&oe=660E014F&_nc_sid=cf751b",
@@ -161,28 +183,6 @@
           "username": "dxm.dog"
         },
         "likes_count": 3
-      },
-      {
-        "id": 18031683898896074,
-        "created_at": 1709041781,
-        "text": "@dxm.dog \u043f\u0435\u0440\u0435\u0431\u0438\u0442\u043e\ud83d\udd28",
-        "owner": {
-          "id": "64655533308",
-          "profile_pic_url": "https://instagram.fiev6-1.fna.fbcdn.net/v/t51.2885-19/427666117_424880886632391_8456744437262568953_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fiev6-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=_K0p807vVTIAX-Tt7f8&edm=AF1ddXUBAAAA&ccb=7-5&oh=00_AfBXif-OjL4OtYzz2HDW62Com_iRTBdclyAxtLpg6HHDSA&oe=660E014F&_nc_sid=cf751b",
-          "username": "kse_meeting_auction"
-        },
-        "likes_count": 0
-      },
-      {
-        "id": 18021342470020827,
-        "created_at": 1709137460,
-        "text": "\u0426\u0435 \u0431\u0443\u043b\u0430 \u043d\u0430\u0439\u043a\u0440\u0430\u0449\u0430 \u0441\u0442\u0430\u0432\u043a\u0430\ud83d\ude22",
-        "owner": {
-          "id": "40877102359",
-          "profile_pic_url": "https://instagram.fiev6-1.fna.fbcdn.net/v/t51.2885-19/418381292_689512783293240_2286163972003136916_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fiev6-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=QQL7McyR41sAX8e9tcJ&edm=AF1ddXUBAAAA&ccb=7-5&oh=00_AfDqY536J2J5IzmLKaJbPLAHG7RKvnQqsRqcw4PhJuHmog&oe=660E0A40&_nc_sid=cf751b",
-          "username": "sergio_kozerenko"
-        },
-        "likes_count": 4
       }
     ]
   },

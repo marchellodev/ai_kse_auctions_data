@@ -167,9 +167,9 @@
     "likes_count": 2,
     "answers": [
       {
-        "id": 18006824657517802,
-        "created_at": 1708976470,
-        "text": "@irina_boiko2016 \u043f\u0435\u0440\u0435\u0431\u0438\u0442\u043e\ud83d\udd28",
+        "id": 17893558601976036,
+        "created_at": 1708976472,
+        "text": "@irina_boiko2016 \u043f\u0435\u0440\u0435\u0431\u0438\u0442\u043e",
         "owner": {
           "id": "64655533308",
           "is_verified": false,
@@ -179,9 +179,9 @@
         "likes_count": 0
       },
       {
-        "id": 17893558601976036,
-        "created_at": 1708976472,
-        "text": "@irina_boiko2016 \u043f\u0435\u0440\u0435\u0431\u0438\u0442\u043e",
+        "id": 18006824657517802,
+        "created_at": 1708976470,
+        "text": "@irina_boiko2016 \u043f\u0435\u0440\u0435\u0431\u0438\u0442\u043e\ud83d\udd28",
         "owner": {
           "id": "64655533308",
           "is_verified": false,

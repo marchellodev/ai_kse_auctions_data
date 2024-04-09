@@ -128,18 +128,6 @@
         "likes_count": 0
       },
       {
-        "id": 18020806322034351,
-        "created_at": 1709569561,
-        "text": "@dzvino444ka 400",
-        "owner": {
-          "id": "7698911940",
-          "is_verified": false,
-          "profile_pic_url": "https://instagram.fiev6-1.fna.fbcdn.net/v/t51.2885-19/71137554_411545089742051_4480115334606487552_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fiev6-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=hXt2QaMNepQAX8vQgGU&edm=AMrZAGUBAAAA&ccb=7-5&oh=00_AfCqj7D-4-S1C1M5LhLWeDA6zeO8UCqm5qU9Mm21QGUpmw&oe=660DE969&_nc_sid=17eaee",
-          "username": "tbar97"
-        },
-        "likes_count": 1
-      },
-      {
         "id": 17997020699595612,
         "created_at": 1709569616,
         "text": "@dzvino444ka \u043f\u0435\u0440\u0435\u0431\u0438\u0442\u043e\ud83d\udd28",
@@ -150,6 +138,18 @@
           "username": "kse_meeting_auction"
         },
         "likes_count": 0
+      },
+      {
+        "id": 18020806322034351,
+        "created_at": 1709569561,
+        "text": "@dzvino444ka 400",
+        "owner": {
+          "id": "7698911940",
+          "is_verified": false,
+          "profile_pic_url": "https://instagram.fiev6-1.fna.fbcdn.net/v/t51.2885-19/71137554_411545089742051_4480115334606487552_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fiev6-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=hXt2QaMNepQAX8vQgGU&edm=AMrZAGUBAAAA&ccb=7-5&oh=00_AfCqj7D-4-S1C1M5LhLWeDA6zeO8UCqm5qU9Mm21QGUpmw&oe=660DE969&_nc_sid=17eaee",
+          "username": "tbar97"
+        },
+        "likes_count": 1
       }
     ]
   },

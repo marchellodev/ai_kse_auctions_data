@@ -64,9 +64,9 @@
     "likes_count": 2,
     "answers": [
       {
-        "id": 18033655495840727,
-        "created_at": 1709038486,
-        "text": "@haidamakam \u043f\u0435\u0440\u0435\u0431\u0438\u0442\u043e \u0441\u0442\u0430\u0432\u043a\u043e\u044e \u0437 FB 400 \u0433\u0440\u043d",
+        "id": 18028720558777200,
+        "created_at": 1710145194,
+        "text": "@haidamakam \u043f\u0435\u0440\u0435\u0431\u0438\u0442\u043e\ud83d\udd28",
         "owner": {
           "id": "64655533308",
           "is_verified": false,
@@ -76,9 +76,9 @@
         "likes_count": 0
       },
       {
-        "id": 18028720558777200,
-        "created_at": 1710145194,
-        "text": "@haidamakam \u043f\u0435\u0440\u0435\u0431\u0438\u0442\u043e\ud83d\udd28",
+        "id": 18033655495840727,
+        "created_at": 1709038486,
+        "text": "@haidamakam \u043f\u0435\u0440\u0435\u0431\u0438\u0442\u043e \u0441\u0442\u0430\u0432\u043a\u043e\u044e \u0437 FB 400 \u0433\u0440\u043d",
         "owner": {
           "id": "64655533308",
           "is_verified": false,

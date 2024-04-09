@@ -50,18 +50,6 @@
     "likes_count": 1,
     "answers": [
       {
-        "id": 18019093429947007,
-        "created_at": 1710054843,
-        "text": "@alexander_langenfelder \u043f\u0435\u0440\u0435\u0431\u0438\u0442\u043e\ud83d\udd28",
-        "owner": {
-          "id": "64655533308",
-          "is_verified": false,
-          "profile_pic_url": "https://instagram.fiev6-1.fna.fbcdn.net/v/t51.2885-19/427666117_424880886632391_8456744437262568953_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fiev6-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=_K0p807vVTIAX-Tt7f8&edm=AMrZAGUBAAAA&ccb=7-5&oh=00_AfD0tR1HI7A1_N_tFlhG91ZTP6wnR7U6gqBcGaXp2Qveuw&oe=660E014F&_nc_sid=17eaee",
-          "username": "kse_meeting_auction"
-        },
-        "likes_count": 0
-      },
-      {
         "id": 18005286614164787,
         "created_at": 1710163266,
         "text": "@vo.simkiv \u043f\u0435\u0440\u0435\u0431\u0438\u0442\u043e\ud83d\udd28",
@@ -72,6 +60,18 @@
           "username": "kse_meeting_auction"
         },
         "likes_count": 1
+      },
+      {
+        "id": 18019093429947007,
+        "created_at": 1710054843,
+        "text": "@alexander_langenfelder \u043f\u0435\u0440\u0435\u0431\u0438\u0442\u043e\ud83d\udd28",
+        "owner": {
+          "id": "64655533308",
+          "is_verified": false,
+          "profile_pic_url": "https://instagram.fiev6-1.fna.fbcdn.net/v/t51.2885-19/427666117_424880886632391_8456744437262568953_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fiev6-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=_K0p807vVTIAX-Tt7f8&edm=AMrZAGUBAAAA&ccb=7-5&oh=00_AfD0tR1HI7A1_N_tFlhG91ZTP6wnR7U6gqBcGaXp2Qveuw&oe=660E014F&_nc_sid=17eaee",
+          "username": "kse_meeting_auction"
+        },
+        "likes_count": 0
       },
       {
         "id": 17974265672529133,

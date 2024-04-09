@@ -146,10 +146,8 @@ async function parseComments(file: string, n: number) {
         });
       }
     }
-    return { comments, owners };
   }
-  console.log(comments);
-  process.exit(0);
+  return { comments, owners };
 }
 
 await main();
